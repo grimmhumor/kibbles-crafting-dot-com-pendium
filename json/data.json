@@ -1,6 +1,5 @@
 [
   {
-    "id":1,
     "name":"Common Curative Reagent",
     "type":"reagent",
     "subtype": "curative",
@@ -13,7 +12,6 @@
     "recipes": null
   },
   {
-    "id":2,
     "name":"Glass Vial",
     "type":"material",
     "subtype": null,
@@ -39,7 +37,6 @@
     ]
   },
   {
-    "id":3,
     "name":"Potion of Healing",
     "type":"potion",
     "subtype": null,
@@ -66,7 +63,6 @@
     ]
   },
   {
-    "id":4,
     "name":"Unformed Glass",
     "type":"misc",
     "subtype": null,
@@ -78,7 +74,6 @@
     "recipes": null
   },
   {
-    "id":5,
     "name":"Common Arcane Essence",
     "type":"essence",
     "subtype": null,
@@ -115,7 +110,6 @@
     ]
   },
   {
-    "id":6,
     "name":"Common Primal Essence",
     "type":"essence",
     "subtype": null,
@@ -144,7 +138,6 @@
     ]
   },
   {
-    "id":7,
     "name":"Common Divine Essence",
     "type":"essence",
     "subtype": null,
@@ -177,7 +170,6 @@
     ]
   },
   {
-    "id":8,
     "name":"Common Reactive Reagent",
     "type":"reagent",
     "subtype": "reactive",
@@ -190,8 +182,7 @@
     "recipes": null
   },
   {
-    "id":9,
-    "name":"Common Reactive Reagent",
+    "name":"Common Poisonous Reagent",
     "type":"reagent",
     "subtype": "reactive",
     "rarity": "common",
