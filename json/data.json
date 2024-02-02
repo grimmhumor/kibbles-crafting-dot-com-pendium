@@ -79,25 +79,126 @@
   },
   {
     "id":5,
-    "name":"rare",
-    "type":"misc",
+    "name":"Common Arcane Essence",
+    "type":"essence",
     "subtype": null,
-    "rarity": "rare",
-    "priceCp": 10,
+    "rarity": "common",
+    "priceCp": 4500,
     "usedFor": [
-      "Glassblowing"
+      "Alchemy",
+      "Enchanting",
+      "Scrollscribing",
+      "Wand Whittling"
+
+    ],
+    "recipes": [
+      {
+        "id": 0,
+        "school": "alchemy",
+        "checks": 1,
+        "dc": 0,
+        "materials": [
+          {
+            "quantity": 1,
+            "name": "Common Curative Reagent"
+          },
+          {
+            "quantity": 1,
+            "name": "Common Poisonous Reagent"
+          },
+          {
+            "quantity": 1,
+            "name": "Common Reactive Reagent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id":6,
+    "name":"Common Primal Essence",
+    "type":"essence",
+    "subtype": null,
+    "rarity": "common",
+    "priceCp": 4500,
+    "usedFor": [
+      "Alchemy",
+      "Enchanting",
+      "Scrollscribing",
+      "Wand Whittling"
+
+    ],
+    "recipes": [
+      {
+        "id": 0,
+        "school": "alchemy",
+        "checks": 1,
+        "dc": 0,
+        "materials": [
+          {
+            "quantity": 3,
+            "name": "Common Reactive Reagent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id":7,
+    "name":"Common Divine Essence",
+    "type":"essence",
+    "subtype": null,
+    "rarity": "common",
+    "priceCp": 4500,
+    "usedFor": [
+      "Alchemy",
+      "Enchanting",
+      "Scrollscribing",
+      "Wand Whittling"
+
+    ],
+    "recipes": [
+      {
+        "id": 0,
+        "school": "alchemy",
+        "checks": 1,
+        "dc": 0,
+        "materials": [
+          {
+            "quantity": 2,
+            "name": "Common Curative Reagent"
+          },
+          {
+            "quantity": 1,
+            "name": "Common Reactive Reagent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id":8,
+    "name":"Common Reactive Reagent",
+    "type":"reagent",
+    "subtype": "reactive",
+    "rarity": "common",
+    "priceCp": 1500,
+    "usedFor": [
+      "Alchemy",
+      "Poisoncraft"
     ],
     "recipes": null
   },
   {
-    "id":0,
-    "name":"Unc",
-    "type":"misc",
-    "subtype": null,
-    "rarity": "uncommon",
-    "priceCp": 10,
+    "id":9,
+    "name":"Common Reactive Reagent",
+    "type":"reagent",
+    "subtype": "reactive",
+    "rarity": "common",
+    "priceCp": 1500,
     "usedFor": [
-      "Glassblowing"
+      "Alchemy",
+      "Poisoncraft"
     ],
     "recipes": null
   }
