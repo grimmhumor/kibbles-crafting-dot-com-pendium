@@ -1,0 +1,104 @@
+[
+  {
+    "id":1,
+    "name":"Common Curative Reagent",
+    "type":"reagent",
+    "subtype": "curative",
+    "rarity": "common",
+    "priceCp": 1500,
+    "usedFor": [
+      "Alchemy",
+      "Poisoncraft"
+    ],
+    "recipes": null
+  },
+  {
+    "id":2,
+    "name":"Glass Vial",
+    "type":"material",
+    "subtype": null,
+    "rarity": "common",
+    "priceCp": 100,
+    "usedFor": [
+      "Alchemy",
+      "Poisoncraft"
+    ],
+    "recipes": [
+      {
+        "id": 0,
+        "school": "glassblowing",
+        "checks": 1,
+        "dc": 9,
+        "materials": [
+          {
+            "quantity": 1,
+            "name": "unformed glass"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id":3,
+    "name":"Potion of Healing",
+    "type":"potion",
+    "subtype": null,
+    "rarity": "common",
+    "priceCp": 5000,
+    "usedFor": null,
+    "recipes": [
+      {
+        "id": 0,
+        "school": "alchemy",
+        "checks": 1,
+        "dc": 13,
+        "materials": [
+          {
+            "quantity": 3,
+            "name": "Common Curative Reagent"
+          },
+          {
+            "quantity": 1,
+            "name": "Glass Vial"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id":4,
+    "name":"Unformed Glass",
+    "type":"misc",
+    "subtype": null,
+    "rarity": "common",
+    "priceCp": 10,
+    "usedFor": [
+      "Glassblowing"
+    ],
+    "recipes": null
+  },
+  {
+    "id":5,
+    "name":"rare",
+    "type":"misc",
+    "subtype": null,
+    "rarity": "rare",
+    "priceCp": 10,
+    "usedFor": [
+      "Glassblowing"
+    ],
+    "recipes": null
+  },
+  {
+    "id":0,
+    "name":"Unc",
+    "type":"misc",
+    "subtype": null,
+    "rarity": "uncommon",
+    "priceCp": 10,
+    "usedFor": [
+      "Glassblowing"
+    ],
+    "recipes": null
+  }
+]
