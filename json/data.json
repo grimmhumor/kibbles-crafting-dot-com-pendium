@@ -5,10 +5,7 @@
     "subtype": "curative",
     "rarity": "common",
     "priceCp": 1500,
-    "usedFor": [
-      "Alchemy",
-      "Poisoncraft"
-    ],
+    "usedFor": "Alchemy, Poisoncraft",
     "recipes": null
   },
   {
@@ -17,10 +14,7 @@
     "subtype": null,
     "rarity": "common",
     "priceCp": 100,
-    "usedFor": [
-      "Alchemy",
-      "Poisoncraft"
-    ],
+    "usedFor": "Alchemy, Poisoncraft",
     "recipes": [
       {
         "id": 0,
@@ -30,7 +24,7 @@
         "materials": [
           {
             "quantity": 1,
-            "name": "unformed glass"
+            "name": "Unformed Glass"
           }
         ]
       }
@@ -42,7 +36,7 @@
     "subtype": null,
     "rarity": "common",
     "priceCp": 5000,
-    "usedFor": null,
+    "usedFor": "",
     "recipes": [
       {
         "id": 0,
@@ -68,9 +62,7 @@
     "subtype": null,
     "rarity": "common",
     "priceCp": 10,
-    "usedFor": [
-      "Glassblowing"
-    ],
+    "usedFor": "Glassblowing",
     "recipes": null
   },
   {
@@ -79,13 +71,7 @@
     "subtype": null,
     "rarity": "common",
     "priceCp": 4500,
-    "usedFor": [
-      "Alchemy",
-      "Enchanting",
-      "Scrollscribing",
-      "Wand Whittling"
-
-    ],
+    "usedFor": "Alchemy, Enchanting, Scrollscribing, Wand Whittling",
     "recipes": [
       {
         "id": 0,
@@ -115,13 +101,7 @@
     "subtype": null,
     "rarity": "common",
     "priceCp": 4500,
-    "usedFor": [
-      "Alchemy",
-      "Enchanting",
-      "Scrollscribing",
-      "Wand Whittling"
-
-    ],
+    "usedFor": "Alchemy, Enchanting, Scrollscribing, Wand Whittling",
     "recipes": [
       {
         "id": 0,
@@ -143,13 +123,7 @@
     "subtype": null,
     "rarity": "common",
     "priceCp": 4500,
-    "usedFor": [
-      "Alchemy",
-      "Enchanting",
-      "Scrollscribing",
-      "Wand Whittling"
-
-    ],
+    "usedFor": "Alchemy, Enchanting, Scrollscribing, Wand Whittling",
     "recipes": [
       {
         "id": 0,
@@ -175,10 +149,7 @@
     "subtype": "reactive",
     "rarity": "common",
     "priceCp": 1500,
-    "usedFor": [
-      "Alchemy",
-      "Poisoncraft"
-    ],
+    "usedFor": "Alchemy, Poisoncraft",
     "recipes": null
   },
   {
@@ -187,10 +158,7 @@
     "subtype": "reactive",
     "rarity": "common",
     "priceCp": 1500,
-    "usedFor": [
-      "Alchemy",
-      "Poisoncraft"
-    ],
+    "usedFor": "Alchemy, Poisoncraft",
     "recipes": null
   }
 ]
