@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/kibbles-crafting-dot-com-pendium/static/js/main.cae32fec.js",
+    "main.js": "/kibbles-crafting-dot-com-pendium/static/js/main.9ac289ed.js",
     "index.html": "/kibbles-crafting-dot-com-pendium/index.html",
-    "main.cae32fec.js.map": "/kibbles-crafting-dot-com-pendium/static/js/main.cae32fec.js.map"
+    "main.9ac289ed.js.map": "/kibbles-crafting-dot-com-pendium/static/js/main.9ac289ed.js.map"
   },
   "entrypoints": [
-    "static/js/main.cae32fec.js"
+    "static/js/main.9ac289ed.js"
   ]
 }
