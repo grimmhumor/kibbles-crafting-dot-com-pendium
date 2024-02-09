@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kibbles-crafting-dot-com-pendium/static/css/main.f029a054.css",
-    "main.js": "/kibbles-crafting-dot-com-pendium/static/js/main.2cc60033.js",
+    "main.js": "/kibbles-crafting-dot-com-pendium/static/js/main.0da2e750.js",
     "index.html": "/kibbles-crafting-dot-com-pendium/index.html",
     "main.f029a054.css.map": "/kibbles-crafting-dot-com-pendium/static/css/main.f029a054.css.map",
-    "main.2cc60033.js.map": "/kibbles-crafting-dot-com-pendium/static/js/main.2cc60033.js.map"
+    "main.0da2e750.js.map": "/kibbles-crafting-dot-com-pendium/static/js/main.0da2e750.js.map"
   },
   "entrypoints": [
     "static/css/main.f029a054.css",
-    "static/js/main.2cc60033.js"
+    "static/js/main.0da2e750.js"
   ]
 }
