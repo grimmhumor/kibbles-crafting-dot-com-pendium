@@ -21,7 +21,7 @@ export default function RecipeItemRow({recipe, parentId, inventory, inventoryDat
     let canCraft = false;
     if (!!recipes) {
         recipes.forEach((rec: RecipeItem) => {
-            if(rec.id == recipeItem.id) {
+            if(rec.index == recipeItem.index) {
                 canCraft = true;
             }
         })
@@ -86,7 +86,7 @@ export default function RecipeItemRow({recipe, parentId, inventory, inventoryDat
         }
     }
 
-    let parseId = parentId+","+recipeItem.id;
+    let parseId = parentId+","+recipeItem.index;
 
     return(
         <React.Fragment>

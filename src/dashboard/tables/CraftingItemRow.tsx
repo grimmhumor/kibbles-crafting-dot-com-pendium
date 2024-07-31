@@ -14,7 +14,7 @@ import {itemData} from "../../data/DataLoader";
 import RecipeModal from "../Modals/RecipeModal";
 
 function formatPrice(priceCp: number): String {
-        if (priceCp == 0) {
+        if (priceCp == null || priceCp == 0) {
             return ""
         }
 

@@ -160,6 +160,8 @@ export default function App() {
     projects.push(item);
     setCookie("proj", cookifyProjWishlist(projects), {path: "/"});
     setProjectData(projects);
+    console.log(item);
+    console.log(recipeIndex);
     if(useInventory) {
       removeFromInventory(item.recipes[recipeIndex].materials);
     }
